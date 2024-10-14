@@ -1,0 +1,12 @@
+- one (main) page
+- SRO blue gradient background
+- big title with robot arm to the left of it
+- join us
+  - discord
+  - susu
+- links to useful other pages
+  - Instagram
+  - Github
+  - knowledgebase
+  - smallpeice docs
+  - robohack docs
