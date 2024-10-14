@@ -16,7 +16,7 @@ body {
     text-align: center;
 }
 
-header {
+h1 {
     background-color: #02a6f2;
     background-image: linear-gradient(315deg, #45d3ff, #3d8fee);
     background-size: 100%;
@@ -29,10 +29,11 @@ header {
     justify-content: center;
 }
 
-header, main {
+.row {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .column {
