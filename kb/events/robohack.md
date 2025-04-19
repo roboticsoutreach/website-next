@@ -1,6 +1,6 @@
 # RoboHack
 
-RoboHack is an event for university students which follows a similar format to the [summer school](/kb/events/summer-school.md), taking place over only one 24-hour period (or thereabouts).
+RoboHack is an event for university students which follows a similar format to the [summer school](/kb/events/summer-school/index.md), taking place over only one 24-hour period (or thereabouts).
 
 ## Design Studio Era (2024)
 

@@ -4,7 +4,7 @@ Southampton Robotics Outreach (abbr. SRO) is a society at the [University of Sou
 
 ## What do we do?
 
-According to our [constitution](/society/constitution), our main objectives are:
+According to our constitution, our main objectives are:
 
 - To share our excitement about engineering with others
 - To introduce younger people to the range of activities involved in an engineering project including:
