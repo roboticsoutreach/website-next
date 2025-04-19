@@ -37,7 +37,15 @@ const config: Config = {
         routeBasePath: 'kb',
         sidebarPath: './kb/sidebars.ts',
       },
-    ]
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'blog',
+        routeBasePath: 'blog',
+        path: './blog',
+      },
+    ],
   ],
 
   themes: ['@docusaurus/theme-classic'],
@@ -46,7 +54,7 @@ const config: Config = {
     announcementBar: {
       id: 'new_site',
       content:
-        'This website is new! We would love to know your thoughts, or if you think anything is missing.',
+        'This website is <a href="/blog/2025/04/19/new-website">new</a>! We would love to know your thoughts, or if you think anything is missing.',
       backgroundColor: '#fafbfc',
       textColor: '#091E42',
       isCloseable: false,
@@ -59,14 +67,18 @@ const config: Config = {
       },
       items: [
         {
-          to: 'contact',
-          label: 'Contact Us',
+          to: 'blog',
+          label: 'Blog',
         },
         {
           type: 'doc',
           label: 'Knowledgebase',
           docId: 'index',
           docsPluginId: 'kb',
+        },
+        {
+          to: 'contact',
+          label: 'Contact Us',
         },
         {
           href: 'https://susu.org/groups/student-robotics-southampton',
