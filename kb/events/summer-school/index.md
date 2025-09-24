@@ -1,6 +1,9 @@
 # Summer School
 
-The summer school (sometimes called Smallpeice) is an annual Summer School that we (usually, 2025 notwithstanding) hold in collaboration with the [Smallpeice Trust](https://www.smallpeicetrust.org.uk/). During this weeklong event, normally held in early August, SRO are responsible for the event. Staff from the Smallpeice trust ensure the welfare of students outside of the working day.
+The summer school is a weeklong event for A-level-age students, normally held in early August. SRO organise the event.
+
+In 2025, the event was non-residential and funding and support was provided by the [School of Electronics and Computer Science](https://ecs.soton.ac.uk/).
+Before 2025, the event was residential, and funding and welfare support outside of the working day were provided by [The Smallpeice Trust](https://www.smallpeicetrust.org.uk/).
 
 SRO has a number of responsibilities during the event, including:
 
