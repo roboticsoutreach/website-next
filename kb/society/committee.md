@@ -5,7 +5,7 @@ when taking part in our events.
 
 This year's committee is:
 
-**President:** Alex Colville  
+**President:** Aaron Smith
 **Secretary:** India Bunce  
 **Treasurer:** Stefan Merlas  
 **Welfare Officer:** Indigo Nolan  
