@@ -1,5 +1,13 @@
 # Access and ID Cards
 
+:::info
+Since the content below was written, B32 has been renovated and our cupboards there no longer exists. The contents of the B32 cupboards is now in the temporary(?) SROffice (room 02/5014). 
+
+Out of working hours, special card access is required to enter B2. A key is required to unlock the SROffice.
+:::
+
+---
+
 We work mainly in the evenings, and building 32 (where we mainly work) reverts to card access only outside working hours. All ECS members are able to gain access through the main entrance doors until 11pm. No interior doors, however, are accessible unless the cardholder is staff or a PGR in ECS.
 
 It is usually possible to get the ID cards of the committee programmed so they can access readers in the "All ECS Readers (B32)" reader group. Note that the room 32/4073 is not included in this group and must be added separately.
