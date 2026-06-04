@@ -15,11 +15,11 @@ Additionally, this year we also celebrate 20 years of student-led robotics outre
 
 We held our AGM in May, and the committee for AY 2026/27 was elected:
 
-**President:** India Bunce
-**Treasurer:** Stefan Merlas
-**Welfare Officer:** Caitlyn Mawhinney
-**Secretary:** Eden Rendle
-**Marketing Officer:** Jack Barnard
+**President:** India Bunce  
+**Treasurer:** Stefan Merlas  
+**Welfare Officer:** Caitlyn Mawhinney  
+**Secretary:** Eden Rendle  
+**Marketing Officer:** Jack Barnard  
 **Technical Officer:** Zoe Soutter
 
 Best of luck to the incoming committee, who I hope enjoy the use of the new cupboard locks.
