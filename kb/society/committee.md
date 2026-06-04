@@ -5,17 +5,26 @@ when taking part in our events.
 
 This year's committee is:
 
-**President:** Alex Colville  
-**Secretary:** India Bunce  
+**President:** India Bunce  
 **Treasurer:** Stefan Merlas  
-**Welfare Officer:** Indigo Nolan  
-**Hackathon Officer:** Liam Soutter  
-**Marketing Officer:** Aaron Smith
+**Welfare Officer:** Caitlyn Mawhinney  
+**Secretary:** Eden Rendle  
+**Marketing Officer:** Jack Barnard  
+**Technical Officer:** Zoe Soutter
 
 A new committee is elected each year at the society's Annual General Meeting.
 
 
 ## Previous Committees
+
+### 2025-2026
+
+**President:** Aaron Smith 
+**Secretary:** India Bunce  
+**Treasurer:** Stefan Merlas  
+**Welfare Officer:** Indigo Nolan  
+**Hackathon Officer:** Liam Soutter  
+**Marketing Officer:** Aaron Smith
 
 ### 2024-2025
 
