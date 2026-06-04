@@ -19,7 +19,7 @@ A new committee is elected each year at the society's Annual General Meeting.
 
 ### 2025-2026
 
-**President:** Aaron Smith 
+**President:** Aaron Smith  
 **Secretary:** India Bunce  
 **Treasurer:** Stefan Merlas  
 **Welfare Officer:** Indigo Nolan  
