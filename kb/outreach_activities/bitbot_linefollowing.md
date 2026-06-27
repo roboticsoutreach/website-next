@@ -5,6 +5,8 @@
 Participants with little to no programming experience, probably aged 8 to 12 years old.
 Those with previous experience with block-based programming (Scratch, micro:bit) tend to find the activity easier.
 
+We have previously run this activity at [Science and Engineering Day](https://www.southampton.ac.uk/per/university/festival/science-and-engineering-day.page), a SEND school, and local Cubs groups.
+
 
 ## Description and goals
 
@@ -15,16 +17,16 @@ Those with previous experience with block-based programming (Scratch, micro:bit)
 
 | Item | Qty | Notes |
 |---|---|---|
-| laptops | $n$ | with charger (and optionally a mouse) |
-| USB cables | $n$ | to connect laptops to micro:bit (USB Micro B) |
-| micro:bit | $n$ | |
-| BitBot Pro | $n$ | |
-| AA batteries | $3n$ | obviously bring spares! |
+| laptops | n | with charger (and optionally a mouse) |
+| USB cables | n | to connect laptops to micro:bit (USB Micro B) |
+| micro:bit | n | |
+| BitBot Pro | n | |
+| AA batteries | 3n | obviously bring spares! |
 | plywood walls | | |
 | black gaffer tape (12mm) | | line to follow |
 | white gaffer tape (50mm) | | contrast background for line |
 
-Where $n$ is the number of participants or partipant pairs.
+Where n is the number of participants or partipant pairs.
 Always bring spare consumables and USB cables!
 
 
@@ -35,7 +37,7 @@ Slides are not necessary, but can be useful for visualising how the BitBot's sen
 A line-following course can be constructed with the plywood walls and gaffer tape.
 When laying the line, avoid angles sharper than 30 degrees or so.
 Participants should stay outside the walls to avoid damage to them or the moving BitBots.
-In tight classroom spaces like for SOTSEF, access to the arena may be difficult, in which case sample lines on tables near the laptops can be laid for rapid testing.
+In tight classroom spaces like for Science and Engineering Day, access to the arena may be difficult, in which case sample lines on tables near the laptops can be laid for rapid testing.
 
 A [micro:bit classroom](https://classroom.microbit.org/) instance should be set up ahead of time.
 For most sessions where the focus is on logical thinking rather than the details of Python syntax, the 'Code editor' option can be set to MakeCode.
@@ -54,8 +56,11 @@ Then switch the editor to the JavaScript mode using the toggle at the top-middle
 
 The start of a session should be an explanation to participants of the concept of autonomous line-following and how it can be achieved with the BitBots.
 
-Participants may not be familiar with the concept of dragging and dropping code blocks and where they need to go in their workspace, so it may be a good idea to get them to drop something simple like using the LED output block to show a pictogram by placing it in the 'forever' block.
+Participants may not be familiar with the concept of dragging and dropping code blocks and where they need to go in their workspace, so it may be a good idea to get them to start with something simple like using the LED output block to show a pictogram by placing it in the 'forever' block.
 This also provides a visible indicator that the code compilation and flash to the micro:bit is working.
+
+Participants who are not familiar with programming basics will need to be introduced to the concept of 'if-else' conditions.  
+It may also be worth explaining how steering works (the motor on the side to turn towards should go slower than the other or backwards).
 
 Here is the JavaScript version of a simple example solution for the 'forever' block:
 ```js
@@ -72,13 +77,12 @@ basic.forever(function () {
 })
 ```
 
-Participants who are not familiar with programming basics will need to be introduced to the concept of 'if-else' conditions.  
-It may also be worth explaining how steering works (the motor on the side to turn towards should go slower than the other or backwards).
-
 
 ## Tips and notes
 
 The BitBots can be quite temperamental, despite costing over £40 each.
 Changes in ambient temperature can cause the expected analogue readings from the IR sensors for black and white surfaces to drift.
 The analogue readings from the IR sensors as they are moved over the line and contrast background can be read back to micro:bit classroom to adjust the threshold and hysteresis values set in the 'on start' sample code.
+
+When running the activity at Science and Engineering Day, this tends to be more structured and productive as a ticketed event, e.g. with 10 slots in each of six or so timetabled sessions. During the activity application process, such details should be communicated with the PERu/SOTSEF team, who manage the ticketing.
 
