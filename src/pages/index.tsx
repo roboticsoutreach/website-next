@@ -32,7 +32,7 @@ export default function Home(): ReactNode {
 
             <Link
               className="button button--secondary button--lg"
-              to="https://discord.gg/eEAjAgY5Xe">
+              to="https://discord.gg/mnn6U8WPVf">
               Join us on Discord
             </Link>
           </div>
