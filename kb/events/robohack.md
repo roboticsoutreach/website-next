@@ -13,3 +13,5 @@ Overall the event was a moderate success, but we did vow never to do it in the d
 ## SUSU Era (2025-present)
 
 More recent RoboHack events have taken place in SUSU, Building 42. This is much easier from a logistics standpoint by virtue of being on the same campus as SRO equipment, and indeed in the same building as most of the technical equipment. The budget for the event in 2025 came entirely from ECS, and was slightly more than 2024 as we increased the production value significantly.
+
+We did not run RoboHack in 2026, largely for to reasons related to venue booking.
