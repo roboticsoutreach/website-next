@@ -1,13 +1,12 @@
 # Meetings
 
-:::warning
-This is old information. Date, time and place for meetings for the 2026/2027 academic year are to be confirmed.
-If you are a newcomer, we'll be holding a welcome event on Thursday, 17th September in Room 4005, Building 34. We hope to see you there!
-::: 
+The society meets once a week during university term time. 
 
-The society meets once a week during university term time. In 2025, this is on Thursday evenings. Our meetings start at 18:00.
+In the 2026 - 2027 academic year, this is on Tuesday evenings. Our meetings start at 18:00 at building 32, room 4077 (Mary Campbell room).
 
-We meet in Building 32, room 4073 (Mary Campbell Room). This room has to be booked in advance by the society secretary, and the booking must be approved by ECS administrative staff. Undergraduate and non-ECS ID cards will not grant access; a member must either be a member of ECS staff, or must have their card programmed so it can access the room.
+<iframe src="https://maps.southampton.ac.uk/#18/50.93635/-1.39582/nomenu,nojump,norooms,nowheelzoom,doors,key" width="100%" height="600" style={{ border: 0 }}></iframe>
+
+Undergraduate and non-ECS ID cards will not grant access; a member must either be a member of ECS staff, or must have their card programmed so it can access the room.
 
 :::info
 There is no access to building 32 after 18:00 or on weekends for non-ECS members. If you require access to the building, please make your way to the north entrance (closest to buildings 1 and 16) and get in touch with the society via Discord.
